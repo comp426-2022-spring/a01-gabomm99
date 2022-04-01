@@ -4,7 +4,7 @@
   "description": "A webserver that takes port number as arg",
   "main": "server.js",
   "dependencies": {
-    "minimist": "^1.2.5"
+    "minimist": "^1.2.6"
   },
   "scripts": {
     "test": "node server.js",
